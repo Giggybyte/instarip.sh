@@ -14,4 +14,4 @@ wget https://raw.githubusercontent.com/Giggybyte/instarip.sh/master/instarip.sh
 # Move it so you can execute it anywhere.
 mv instarip.sh /usr/bin/
 # Give it the proper permissions.
-chmod a+rx instarip.sh
+chmod a+rx /usr/bin/instarip.sh
